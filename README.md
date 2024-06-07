@@ -1,6 +1,6 @@
 # Kaggle
 
-## Suicidal Thought Detection (KNN, SVM, DT, NB)
+## Suicidal Thought Detection (KNN, SVM, Decision Tree, Multinomial Naive Bayes)
 This script explores different techniques for building a model to classify text data into suicidal or non-suicidal categories. Here's a summary of the key steps involved:
 
 * Project File: [Kaggle](https://www.kaggle.com/code/ahmadulkc/suicide-thought-detection-knn-svm-dt-nb/notebook/), [GitHub](https://github.com/AKC23/Kaggle/blob/main/Projects/Suicidal%20Thought%20Detection%20(KNN%2C%20SVM%2C%20DT%2C%20NB).ipynb)
